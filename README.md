@@ -1,5 +1,5 @@
 # prueva
 primer repositorio de prueva
 
-##descripcion
+## descripcion
 esto es un repositrio de prueva
